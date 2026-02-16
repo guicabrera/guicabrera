@@ -148,15 +148,15 @@ Collection of reusable Python libraries for enterprise automation
 
 ---
 
-### �📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guicabrera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guicabrera&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+### 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guicabrera&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guicabrera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guicabrera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
