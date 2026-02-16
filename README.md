@@ -164,6 +164,13 @@ Intelligent customs tariff classification system using AI with multi-region comp
 - **Integrations**: PubChem API, Siscomex (Brazil), NCM database, classification matrices
 - **Deployment**: Azure App Service, CI/CD pipelines, Docker containerization
 
+#### 🔐 HCM - Highly Controlled Materials Management
+Enterprise workflow system with dynamic approval engine and digital signatures
+- **Tech**: Python, FastAPI, React, PostgreSQL, SQLAlchemy, JWT, Zustand, Vite
+- **Features**: Dynamic workflow builder, document tracking, digital signatures, audit logging
+- **Workflow Engine**: Custom approval processes, role-based assignments, automated notifications
+- **Integrations**: Adobe Sign, DocuSign, Foundry Data Tables, Spark SQL
+
 #### 🌊 OCEAN - Material & Permits Management
 Enterprise-grade system for highly controlled materials tracking and permit workflows with real-time SAP integration
 - **Tech**: Python, FastAPI, PostgreSQL, SQLAlchemy, Streamlit, Docker
@@ -260,6 +267,7 @@ const guilherme = {
     currentProjects: [
         "English School Platform - Hybrid microservices (Next.js + Go + Node.js)",
         "MERIDIAN - AI-powered customs classification",
+        "HCM - Enterprise workflow system with digital signatures",
         "OCEAN - Enterprise material management with SAP sync",
         "Python automation libraries ecosystem",
         "VPS cluster infrastructure management"
